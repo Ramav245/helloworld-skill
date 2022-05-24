@@ -8,7 +8,6 @@ The code allows mycroft to say hello world
 * "Say hello world"
 * "Mycroft hello world"
 * "Hello world"
-* "mycroft hello world"
 
 ## Credits
 @ramav245
