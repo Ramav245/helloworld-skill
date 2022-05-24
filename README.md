@@ -6,9 +6,9 @@ The code allows mycroft to say hello world
 
 ## Examples
 * "Say hello world"
-* "Mycroft hello[c[c[c[c[c"
-* "Hello world"
 * "Mycroft hello world"
+* "Hello world"
+* "mycroft hello world"
 
 ## Credits
 @ramav245
